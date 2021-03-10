@@ -1,5 +1,4 @@
-# 언론사 프레임 분석을 위한 벡터기반의 단어 표현: 코로나 19 를 중심으로
-# Vector-based word representation for media frame analysis: focused on covid-19
+# 언론사 프레임 분석을 위한 벡터기반의 단어 표현: 코로나 19 를 중심으로 (Vector-based word representation for media frame analysis: focused on covid-19)
 ---
 ## 요약(abstract)
  본 논문에서는 언론사 프레임 분석을 위해 2020 년 2 월 1 일부터 7 개월간 코로나 19 를 언급한
