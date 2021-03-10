@@ -39,8 +39,8 @@
 
 ### 4. 프레임 분석결과
 ![image](https://user-images.githubusercontent.com/57992071/110603967-eb8a0500-81ca-11eb-9cde-e085185a3db0.png)   
-![image](https://user-images.githubusercontent.com/57992071/110604011-f5ac0380-81ca-11eb-9f05-65601d562772.png)   
-![image](https://user-images.githubusercontent.com/57992071/110604028-fba1e480-81ca-11eb-8b45-212562537b2b.png)
+![image](https://user-images.githubusercontent.com/57992071/110604011-f5ac0380-81ca-11eb-9f05-65601d562772.png)    
+![image](https://user-images.githubusercontent.com/57992071/110605577-9bac3d80-81cc-11eb-87d5-7ff27e3bf389.png)   
 
 
 
